@@ -1,0 +1,3 @@
+<!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
+
+This project is focused on training a machine learning model to extract text from SMS messages, replacing the rule-based logic used in the `sms-transaction-detector` project. The model should replicate the output of the rule-based system as closely as possible.

@@ -1,0 +1,190 @@
+[
+    {
+      "text": "Sent Rs.73.00 From HDFC Bank A/C x2228 To Marvel On 04/04/25 Ref 509482752071",
+      "label": 1
+    },
+    {
+      "text": "Sent Rs.58.00 From HDFC Bank A/C x2228 To Marvel On 03/04/25 Ref 509369605277",
+      "label": 1
+    },
+    {
+      "text": "Credit Alert! Rs.10.00 credited to HDFC Bank A/c xx2228 on 03-04-25 from VPA one97735@icici",
+      "label": 1
+    },
+    {
+      "text": "Sent Rs.3000.00 From HDFC Bank A/C x2228 To JEYASHREE K S On 01/04/25 Ref 545713534229",
+      "label": 1
+    },
+    {
+      "text": "Rs.545 spent on HDFC Bank Card x8155 at FLIPKART1231144 on 2025-04-02",
+      "label": 1
+    },
+    {
+      "text": "Rs.652 spent on HDFC Bank Card x1135 at PAY*Flipkart Internet on 2025-03-25",
+      "label": 1
+    },
+    {
+      "text": "Rs.1000 spent on HDFC Bank Card x1135 at PAY*Flipkart Internet on 2025-03-25",
+      "label": 1
+    },
+    {
+      "text": "Rs.5000 spent on HDFC Bank Card x1135 at PAY*Flipkart Internet on 2025-03-25",
+      "label": 1
+    },
+    {
+      "text": "Rs.1000 spent on HDFC Bank Card x1135 at PAY*Flipkart Internet on 2025-03-25",
+      "label": 1
+    },
+    {
+      "text": "Rs.1000 spent on HDFC Bank Card x1135 at PAY*Flipkart Internet on 2025-03-25",
+      "label": 1
+    },
+    {
+      "text": "Credit Alert! Rs.1500.00 credited to HDFC Bank A/c xx2228 on 05-04-25 from VPA john123@hdfc",
+      "label": 1
+    },
+    {
+      "text": "Credit Alert! Rs.2000.00 credited to HDFC Bank A/c xx2228 on 06-04-25 from VPA jane456@icici",
+      "label": 1
+    },
+    {
+      "text": "Credit Alert! Rs.750.00 credited to HDFC Bank A/c xx2228 on 07-04-25 from VPA mike789@axis",
+      "label": 1
+    },
+    {
+      "text": "Credit Alert! Rs.500.00 credited to HDFC Bank A/c xx2228 on 08-04-25 from VPA alice321@hdfc",
+      "label": 1
+    },
+    {
+      "text": "Credit Alert! Rs.1200.00 credited to HDFC Bank A/c xx2228 on 09-04-25 from VPA bob654@sbi",
+      "label": 1
+    },
+    {
+      "text": "Sent Rs.1000.00 From HDFC Bank A/C x2228 To Rahul On 05/04/25 Ref 509482752072",
+      "label": 1
+    },
+    {
+      "text": "Sent Rs.2500.00 From HDFC Bank A/C x2228 To Priya On 06/04/25 Ref 509482752073",
+      "label": 1
+    },
+    {
+      "text": "Sent Rs.1800.00 From HDFC Bank A/C x2228 To Arjun On 07/04/25 Ref 509482752074",
+      "label": 1
+    },
+    {
+      "text": "Sent Rs.2200.00 From HDFC Bank A/C x2228 To Sneha On 08/04/25 Ref 509482752075",
+      "label": 1
+    },
+    {
+      "text": "Sent Rs.3000.00 From HDFC Bank A/C x2228 To Karan On 09/04/25 Ref 509482752076",
+      "label": 1
+    },
+    {
+      "text": "Your OTP for login is 123456. Valid for 10 minutes.",
+      "label": 0
+    },
+    {
+      "text": "Your OTP for login is 234556. Valid for 10 minutes.",
+      "label": 0
+    },
+    {
+      "text": "Your HDFC Bank A/C x2228 is linked to your UPI. Thank you!",
+      "label": 0
+    },
+    {
+      "text": "Don't miss our sale! Up to 70% off on Myntra until Sunday!",
+      "label": 0
+    },
+    {
+      "text": "Recharge successful. Jio number 9876543210 has been credited with Rs.239",
+      "label": 0
+    },
+    {
+      "text": "Your parcel has been shipped and will be delivered by tomorrow.",
+      "label": 0
+    },
+    {
+      "text": "Reminder: Your HDFC home loan EMI is due on 10-04-2025.",
+      "label": 0
+    },
+    {
+      "text": "Dear Customer, Your Acct XX5678 is debited with Rs.1,23,456.78 on 05.04.2025 for Flipkart order #FLP87654321 (UPI Ref: 123456789012). Avl Bal: Rs.987654.32",
+      "label": 1
+    },
+    {
+      "text": "ALERT: INR 42,599.00 debited from a/c XX3487 on 01-Apr-25 at AMAZON.IN/BILL. Avl bal: INR 15,736.88. Dispute? Call 1800-425-3800 within 7 days.",
+      "label": 1
+    },
+    {
+      "text": "Transaction of Rs 8,000/- made on your ICICI Card XX7878 at Shoppers Stop on 03/04/2025 14:32:45. Not you? Call 18002662 immediately.",
+      "label": 1
+    },
+    {
+      "text": "SBI: Rs.13750.00 transferred to Mrs. Sharmila J (A/c xxxxxxxx5432) on 04-04-2025 from A/c xxxxxxxx9876 using SBI YONO. Ref # YBT123456789.",
+      "label": 1
+    },
+    {
+      "text": "Rs. 24000/- transferred successfully to Mahesh Kumar J (mahesh@okaxis). NEFT Ref.No: NEFT000123456789 04/04/25 12:35:47 PM. Balance: Rs.45698.45",
+      "label": 1
+    },
+    {
+      "text": "Axis Bank: INR 14,328.50 debited from your A/C XX7657 on 04-APR-25 towards IRCTC PAYMENT. UPI Ref AXIS12345678. Balance: INR 27,832.75",
+      "label": 1
+    },
+    {
+      "text": "HDFC: Cash Withdrawal of Rs.20,000.00 done at ATM BG ROAD #3429 on 02.04.2025 15:22:37. Avl bal: Rs.45,320.78. Need help? Call us at 18002022.",
+      "label": 1
+    },
+    {
+      "text": "Alert! Credit of INR 73,500.00 received in your ICICI Bank account XX2345 on 03-04-2025 from BAJAJ FINANCE LTD. Available balance: INR 1,24,876.34",
+      "label": 1
+    },
+    {
+      "text": "IDFC FIRST Bank: Your salary of Rs.87,500.00 has been credited to your account XX9876 on 04/04/2025. Subject: APR-25 SALARY. Balance: Rs.1,12,453.28",
+      "label": 1
+    },
+    {
+      "text": "Transaction alert: Rs 459.00 debited via UPI ID 459732xxxxx@ybl from A/c xxxxxxxx1234 on 03.04.25 to Swiggy (Ref UPI/123456789012/459). Bal: Rs 34,567.21",
+      "label": 1
+    },
+    {
+      "text": "Dear Customer, your KYC document verification is complete for HDFC Bank account ending 2234. For queries call 18002001111.",
+      "label": 0
+    },
+    {
+      "text": "Your Axis Bank Credit Card statement for March 2025 is ready. Due date: 18-Apr-2025. Min amount due: Rs.3,500. Total: Rs.42,678. View on mobile app.",
+      "label": 0
+    },
+    {
+      "text": "SBI: Your credit score was updated on 02-Apr-2025. Your CIBIL score is 832. Check details on YONO app or visit www.sbi.co.in/creditscore",
+      "label": 0
+    },
+    {
+      "text": "HDFC Bank: Your credit card XX4567 is due for renewal in 30 days. Please update your income documents on NetBanking or mobile app to continue services.",
+      "label": 0
+    },
+    {
+      "text": "Action Required: Please complete your PAN-Aadhaar linking for your ICICI Bank account XXX8765 before 30-Apr-2025 to avoid service interruption.",
+      "label": 0
+    },
+    {
+      "text": "Dear Customer, your cheque number 123456 has been received for processing on 04-Apr-2025 and will be cleared within 24 hours.",
+      "label": 0
+    },
+    {
+      "text": "ALERT: A login attempt was made to your Axis mobile banking from device SM-G998B at 15:45:23 on 04-Apr-25. Not you? Call 18605505555 immediately.",
+      "label": 0
+    },
+    {
+      "text": "Your investment portfolio with HDFC Securities has grown by 2.5% this month. Check your updated portfolio value of Rs.8,76,543 on our app.",
+      "label": 0
+    },
+    {
+      "text": "Thank you for visiting HDFC Bank ATM BKC Mumbai on 04-04-2025. Your card was not used for any transaction. This is only a visit notification.",
+      "label": 0
+    },
+    {
+      "text": "ICICI Bank: New offers available for your Coral Credit Card. Get 5X rewards on grocery shopping until 30-Apr-2025. See details: icicibank.com/offers",
+      "label": 0
+    }
+  ]

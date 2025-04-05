@@ -1,0 +1,5 @@
+text,label
+"Your account has been credited with $500.",transaction
+"Don't forget to attend the meeting tomorrow.",non-transaction
+"Your OTP is 123456. Do not share it with anyone.",transaction
+"Happy Birthday! Have a great day ahead.",non-transaction
