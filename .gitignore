@@ -8,7 +8,9 @@ yarn-error.log*
 logs/
 *.log
 *.log.*
-
+# cache
+__pycache__
+.pytest_cache
 # Dependency directories
 jspm_packages/
 bower_components/
