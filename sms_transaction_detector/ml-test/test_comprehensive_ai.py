@@ -9,6 +9,7 @@ import spacy
 import unittest
 import pandas as pd
 from tabulate import tabulate
+import argparse
 
 # Add the parent directory to sys.path to allow imports
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -25,11 +26,25 @@ apply_fallback_rules = fallback_rules.apply_fallback_rules
 # Initialize colorama
 colorama.init()
 
+# Parse command line arguments to choose model
+parser = argparse.ArgumentParser(description='Test SMS transaction detection models')
+parser.add_argument('--model', choices=['original', 'enhanced'], default='enhanced',
+                    help='Choose which model to test (original or enhanced)')
+args = parser.parse_args()
+
+# Set model path based on command line argument
+if args.model == 'enhanced':
+    MODEL_PATH = '/workspaces/ParsePay/sms_transaction_detector/ml-model/enhanced_training/best_model'
+    print(f"{Fore.GREEN}Using enhanced model from: {MODEL_PATH}{Style.RESET_ALL}")
+else:
+    MODEL_PATH = '/workspaces/ParsePay/sms_transaction_detector/ml-model/ner_model'
+    print(f"{Fore.YELLOW}Using original model from: {MODEL_PATH}{Style.RESET_ALL}")
+
 # Function to extract transaction details with detection source tracking
 def extract_transaction_details(sms_text):
     # Load the trained NER model
     try:
-        loaded_nlp = spacy.load('/workspaces/ParsePay/sms_transaction_detector/ml-model/ner_model')
+        loaded_nlp = spacy.load(MODEL_PATH)
         
         # Process the SMS text
         doc = loaded_nlp(sms_text)
